@@ -1,0 +1,2 @@
+"Copy bin number, probe site, reticle site and die type data as parameters?" checkbox if
+needed

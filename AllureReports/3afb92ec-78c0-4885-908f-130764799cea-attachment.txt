@@ -1,0 +1,3 @@
+Policy Name,  Policy Version, Facility, Work Center, Device, Test Program, Lot ID, Wafer ID, Test
+Temprature, Source Wafer Bin Yield, Target Wafer Bin Yield, Combine Wafer Bin Yield, Source Yield Loss/Gain, Target Yield
+Loss/Gain, Wafer Status, and Wafer Active Status' information

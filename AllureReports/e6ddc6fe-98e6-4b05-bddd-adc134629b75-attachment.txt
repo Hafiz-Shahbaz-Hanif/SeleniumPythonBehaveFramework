@@ -1,0 +1,2 @@
+and appear in the SWM Rules window, SWMRules table in database,
+and email will be sent at your given email (s)

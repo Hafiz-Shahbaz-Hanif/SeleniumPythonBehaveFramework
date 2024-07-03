@@ -1,0 +1,1 @@
+and window will be refresh and rule will be deleted from Web User Interface and from SWMRules table in database as well

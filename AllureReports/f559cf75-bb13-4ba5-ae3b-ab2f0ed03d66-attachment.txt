@@ -1,0 +1,1 @@
+based on the selected device from "SWM Status by Device" table
